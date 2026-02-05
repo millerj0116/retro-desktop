@@ -431,12 +431,15 @@ label {
 /* GAME / IFRAME */
 .game-window,
 .game-window iframe {
-  width: 960px;
-  max-height: 719px;
+  width: 980px;
   padding: 0;
   background: #000;
 }
 
+.game-window iframe {
+  width: 980px;
+  height: 769px;
+}
 .title-bar-text {
   display: flex;
   align-items: center;
