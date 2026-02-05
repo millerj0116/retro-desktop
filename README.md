@@ -1,6 +1,6 @@
 # Retro 98-style Desktop App
 
-Using React, this project aims to "emulate" the classic Windows 98 desktop to use as a portfolio!
+Using React, this project aims to "emulate" the classic Windows 98 desktop to use as a portfolio! It uses a VERY basic PHP API that hits a MySql Database, then retrieves the rest of the Project data from my existing WordPress REST API (https://millerweb.dev).
 
 ## Available Scripts
 
